@@ -13,7 +13,7 @@ export default function MainHeader(){
         <header className={styles.header}>
             <Link className={styles.logo} href="/">
                 <Image src={logoImg} alt="A plate with food on it" priority/>
-                <p>Teo's Kitchen</p>
+                <p>Teo&apos;s Kitchen</p>
             </Link>
 
             <nav className={styles.nav}>
